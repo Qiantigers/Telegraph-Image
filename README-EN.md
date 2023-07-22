@@ -1,7 +1,7 @@
 # Telegraph-Image
 Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
 
-English|[中文](readme-zh.md)
+English|[中文](README-ZH.md)
 
 ## Deployment
 
