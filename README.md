@@ -4,4 +4,4 @@
 
 演示：[https://img.vvww.eu.org/](https://img.vvww.eu.org/)
 
-对生成的图片进行Cloudflare CDN缓存，打开速度
+对生成的图片进行Cloudflare CDN缓存，打开速度颇为可观。
